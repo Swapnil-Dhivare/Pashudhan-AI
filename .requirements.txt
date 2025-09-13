@@ -1,0 +1,13 @@
+#model Generation
+fastai
+timm
+
+#framework
+torch
+torchvision
+
+
+#exploration
+pandas
+numpy
+matplotlib

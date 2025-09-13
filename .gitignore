@@ -1,0 +1,13 @@
+# Ignore datasets
+ai_model/data/kaggle_breed
+
+#ignore .zip files
+.zip
+
+# Ignore notebooks cache
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
